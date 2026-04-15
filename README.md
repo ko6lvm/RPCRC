@@ -13,7 +13,7 @@ I don't want to give up my right Alt / Ctrl keys on my keyboard for VATSIM contr
 <sup>(INOP of 4/2026 due to CRC AFV Restrictions)</sup>
 * 3 Green, Blue, and Red LEDs for PTT and Deafen Visual Signaling
 * Custom Board with RP2040
-* Custom QMK Firmware
+* Custom KMK Firmware for ARM Cortex-M0+
 
 <sup>(yes, this is a bit exaggerated)</sup>
 ## Images

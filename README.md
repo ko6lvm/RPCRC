@@ -69,6 +69,8 @@ RPCRC runs on KMK commit `8afe569` with CircuitPython `v10.2.0-alpha.1`.
 <image src="img/assembly_angle_side.png" style="height: 200px;">
 
 ## BoM
+_Also available in .CSV format in `RPCRC/bom.csv`._
+
 **Subtotal $32.19**
 | Name | Purpose | Quantity | Total Cost (USD) | Link | Distributor |
 | :--- | :--- | :---: | :---: | :--- | :--- |
@@ -90,7 +92,7 @@ RPCRC runs on KMK commit `8afe569` with CircuitPython `v10.2.0-alpha.1`.
 | Pushbutton | C49234152 Min 20 | 20 | 0.64 | [Link](https://www.lcsc.com/product-detail/C49234152.html?s_z=n_C49234152) | LCSC |
 | On-Off Switch | C1788492 | 10 | 5.16 | [Link](https://www.lcsc.com/product-detail/C1788492.html) | LCSC |
 | RP2040 | C2040 | 5 | 4.74 | [Link](https://www.lcsc.com/product-detail/C2040.html?s_z=n_RP2040&spm=wm.ssy.bg.0.xh&lcsc_vid=QgIPUwJUQQdcBgFSRgdeV1RWQ1NfAgADFQUNUAdRQgcxVlNRQVBbV1xfQVlXVjsOAxUeFF5JWBYZEEoKFBINSQcJGk4eFQsCAgIaSgADAwAHC0slTlZbVVVIHxUDCw%3D%3D) | LCSC |
-| 16MB Flash | C97521 | 4 | 7.83 | [Link](https://www.lcsc.com/product-detail/C97521.html?s_z=n_W25Q128JVSIQ&spm=wm.ssy.bg.0.xh&lcsc_vid=QgIPUwJUQQdcBgFSRgdeV1RWQ1NfAgADFQUNUAdRQgcxVlNRQVBbV1xVRFBXUzsOAxUeFF5JWBYZEEoKFBINSQcJGk4eFQsCAgIaSgADAwAHC0slQlBfVlxIHxUDCw%3D%3D) | LCSC |
+| 16MB Flash | C2062840 | 5 | 5.52 | [Link](https://www.lcsc.com/product-detail/C2062840.html?s_z=n_16MB&spm=wm.ssy.bg.0.xh&lcsc_vid=QgIPUwJUQQdcBgFSRgdeV1RWQ1NfAgADFQUNUAdRQgcxVlNRQVJeUlBfQVlWVjsOAxUeFF5JWBYZEEoKFBINSQcJGk4dAgUUFAk%3D) | LCSC |
 | 3.3V LDO | C51118 Min 5 | 5 | 0.73 | [Link](https://www.lcsc.com/product-detail/C51118.html?s_z=n_AP2112K-3.3TRG1&spm=wm.ssy.bg.0.xh&lcsc_vid=QgIPUwJUQQdcBgFSRgdeV1RWQ1NfAgADFQUNUAdRQgcxVlNRQVBbV1NUTlJYVDsOAxUeFF5JWBYZEEoKFBINSQcJGk4eFQsCAgIaSgADAwAHC0slRVZYUlVeQU8GEwkK) | LCSC |
 | USB-C 16pin | C2765186 Min 20 | 20 | 1.33 | [Link](https://www.lcsc.com/product-detail/C2765186.html?s_z=n_TYPE-C%252016PIN%25202MD%28073%29&spm=wm.ssy.bg.0.xh&lcsc_vid=QgIPUwJUQQdcBgFSRgdeV1RWQ1NfAgADFQUNUAdRQgcxVlNRQVBbV1JeQlldUzsOAxUeFF5JWBYZEEoKFBINSQcJGk4eFQsCAgIaSgADAwAHC0slTlFeVUoOAwwC) | LCSC |
 | 12MHz Crystal | C9002 Min 10 | 10 | 0.73 | [Link](https://www.lcsc.com/product-detail/C9002.html?s_z=n_12mhz&spm=wm.ssy.bg.0.xh&lcsc_vid=QgIPUwJUQQdcBgFSRgdeV1RWQ1NfAgADFQUNUAdRQgcxVlNRQVBbV1FfT1RfUTsOAxUeFF5JWBYZEEoKFBINSQcJGk4%3D) | LCSC |

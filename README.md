@@ -71,7 +71,7 @@ RPCRC runs on KMK commit `8afe569` with CircuitPython `v10.2.0-alpha.1`.
 ## BoM
 _Also available in .CSV format in `RPCRC/bom.csv`._
 
-**Subtotal $32.19**
+**Subtotal $29.88**
 | Name | Purpose | Quantity | Total Cost (USD) | Link | Distributor |
 | :--- | :--- | :---: | :---: | :--- | :--- |
 | SMD Stencil | Single Side | 1 | 3.05 | [Link](https://jlcpcb.com) | JLCPCB |
